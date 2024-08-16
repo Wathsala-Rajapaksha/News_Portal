@@ -64,6 +64,15 @@ DB_PASS=password <br>
 DB_NAME=news_db <br>
 JWT_SECRET=your_secret_key <br>
 
+## Usage ##
+**To use the project:** <br>
+
+**Navigate to the homepage:** ___Access the website at http://localhost:5000. <br>
+**Sign up or log in:**  ___Create an account or log in with existing credentials.  <br>
+**View posts:**  ___As a user, you can view all public posts.  <br>
+**Admin and Moderator actions:**  ___Admins can add, edit, delete posts, and manage user roles.
+                                 Moderators can add and edit posts, but cannot delete approved posts. <br>
+
 
 ## API Documentation (Swagger) ## 
 The API documentation is generated using Swagger. Once the backend server is running, you can access the Swagger UI by navigating to http://localhost:5000/api-docs. <br>

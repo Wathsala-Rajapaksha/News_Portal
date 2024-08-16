@@ -38,7 +38,28 @@ npm start <br>
 
 7. **Run the frontend server:** <br>
 cd ../frontend <br>
-npm start 
+npm start
+
+8. **Set up environment variables:** <br>
+Create a .env file with the following: <br>
+DB_HOST=localhost <br>
+DB_USER=root <br>
+DB_PASS=password <br>
+DB_NAME=news_db <br>
+JWT_SECRET=your_secret_key <br>
+
+
+## API Documentation (Swagger) ## 
+The API documentation is generated using Swagger. Once the backend server is running, you can access the Swagger UI by navigating to http://localhost:5000/api-docs. <br>
+
+**Endpoints Overview:**<br>
+POST /api/auth/register: Register a new user <br>
+POST /api/auth/login: User login<br>
+GET /api/posts: Get all public posts <br>
+POST /api/posts: Create a new post (Admin/Moderator only) <br>
+PUT /api/posts/: Update a post (Moderator only before approval) <br>
+DELETE /api/posts/: Delete a post (Admin only) <br>
+PATCH /api/posts/approve: Approve a post (Admin only)<br>
 
 
 

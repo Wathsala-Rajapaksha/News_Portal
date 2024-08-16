@@ -11,6 +11,19 @@ This project is a news website that allows users to view public posts, while adm
 -React: v18 or higher <br>
 -Swagger: For API documentation <br>
 
+## Features
+- Public and protected routes <br>
+- User roles: Admin, Moderator, User <br>
+- JWT-based authentication <br>
+- CRUD operations for posts <br>
+
+## Setup Instructions
+1. Clone the repository. <br>
+2. Install dependencies: <br>
+`npm install` <br>
+3. Start the development server: <br> 
+`npm start` <br>
+
 ## Installation
 To set up the project locally, follow these steps:
 

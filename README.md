@@ -61,7 +61,7 @@ PUT /api/posts/: Update a post (Moderator only before approval) <br>
 DELETE /api/posts/: Delete a post (Admin only) <br>
 PATCH /api/posts/approve: Approve a post (Admin only)<br>
 
-## Testing##
+## Testing ##
 Testing is essential for ensuring the application works as expected.<br>
 
 **Unit Testing:** <br>

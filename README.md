@@ -11,6 +11,7 @@ This project is a news website that allows users to view public posts, while adm
 -React: v18 or higher <br>
 -Swagger: For API documentation <br>
 
+<<<<<<< HEAD
 ## Features
 - Public and protected routes <br>
 - User roles: Admin, Moderator, User <br>
@@ -24,6 +25,8 @@ This project is a news website that allows users to view public posts, while adm
 3. Start the development server: <br> 
 `npm start` <br>
 
+=======
+>>>>>>> 6873b91234bd51add10cc7a675f5f8feab40ef93
 ## Installation
 To set up the project locally, follow these steps:
 

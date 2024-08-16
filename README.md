@@ -89,7 +89,7 @@ Use a process manager like PM2 to keep the server running:<br>
 ## Database ##
 Ensure the database is correctly configured and migrated in the production environment.<br>
 
-12. ## Conclusion ##
+## Conclusion ##
 This project demonstrates a full-stack application development process with authentication and authorization using React, Node.js, and an ORM with a relational or non-relational database. The use of role-based access control ensures that only authorized users can perform certain actions, maintaining security and integrity. The application is scalable, easily deployable, and well-documented, ensuring ease of use and maintenance.
 
 ## References ##

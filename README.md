@@ -1,7 +1,4 @@
-<center>
-  
-   ## News Website Project
-</center>
+# News Website Project #
 
 
 ## Overview of The Project
@@ -19,7 +16,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-user/news_portaln.git
+   git clone https://github.com/Wathsala-Rajapaksha/news_portaln.git
 
 2. **Navigate to the project Directory**: <br>
 **cd news_portaln**
@@ -94,6 +91,12 @@ Ensure the database is correctly configured and migrated in the production envir
 
 12. ## Conclusion ##
 This project demonstrates a full-stack application development process with authentication and authorization using React, Node.js, and an ORM with a relational or non-relational database. The use of role-based access control ensures that only authorized users can perform certain actions, maintaining security and integrity. The application is scalable, easily deployable, and well-documented, ensuring ease of use and maintenance.
+
+## References ##
+--*React Documentation* <br>
+--*Node.js* <br>
+--*JWT.io* <br>
+--*Swagger Documentation* <br>
 
 
 

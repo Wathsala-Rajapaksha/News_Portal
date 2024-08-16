@@ -1,4 +1,8 @@
-# News Website Project
+<center>
+  
+   ## News Website Project
+</center>
+
 
 ## Overview of The Project
 This project is a news website that allows users to view public posts, while admins and moderators have additional permissions to manage content. The website supports authentication and authorization features, ensuring that only authorized users can access certain functionalities based on their roles. Users can view public posts, while admins can manage posts, moderators, and approve posts. Moderators can add or edit posts but cannot modify approved posts. The project uses React for the frontend, Node.js with an ORM for the backend, and supports the database.
